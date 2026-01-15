@@ -1,0 +1,16 @@
+# Pastas do IntelliJ e VS Code
+.idea/
+*.iml
+.vscode/
+
+# Pasta de compilação do Maven (Lixo gerado)
+target/
+
+# Logs e Relatórios (Geralmente não subimos histórico, apenas código)
+# Se quiser mostrar um exemplo, deixe descomentado, mas o padrão é ignorar
+relatorios/
+prints/
+*.log
+
+# Drivers baixados localmente (se houver)
+drivers/
